@@ -1,13 +1,12 @@
 #include <stdio.h>
 
 /**
- * C program to print a line
- * we would use puts
- * we won't use printf
+ * main - Entry point in program execution
+ * return - gives an output of 0 which means program is succesful
  */
 
 int main(void)
 {
-  puts("\"Programming is like building a multilingual puzzle");
-  return(0);
+ puts("\"Programming is like building a multilingual puzzle");
+ return(0);
 }
