@@ -3,7 +3,7 @@
 
 /**
  * main - The program begins at this point
- * Return: The program terminates here and returns a value of 1 (success)
+ * Return: The program terminates here and returns a value of 1 (failure)
  */
 
 int main(void)
