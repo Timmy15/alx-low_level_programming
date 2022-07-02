@@ -17,11 +17,11 @@ int main(void)
 
 	for (n = 48; n < 58; n++)
 
-		{
+	{
 
-			putchar(n);
+		putchar(n);
 
-		}
+	}
 
 	putchar('\n');
 
