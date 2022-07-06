@@ -24,8 +24,7 @@ void jack_bauer(void)
 	{
 		if (h2 == 2)
 		{
-		/* Restrain to 23h, not 29*/
-			a = 3;
+			a = 3; /* Restrain to 23h, not 29*/
 		}
 		h1 = 0;
 		while (h1 <= a)
