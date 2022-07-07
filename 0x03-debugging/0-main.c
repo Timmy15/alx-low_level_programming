@@ -4,10 +4,7 @@
  * main - Test function for both positive and negative
  *
  * Return: 0
- *
  */
-
-
 
 int main(void)
 
@@ -22,5 +19,3 @@ int main(void)
 	return (0);
 
 }
-
-
