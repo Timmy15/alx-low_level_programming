@@ -27,6 +27,8 @@ int main(void)
 
 	p = &n;
 
+	*(p + 5) = 98;
+
 	printf("%p\n", &a[2]);
 	 
 	printf("%p\n", p);
