@@ -48,7 +48,7 @@ int lengthc(char *s)
  * @st: start of string 0
  *
  * @end: end of string from is_palindrome, from lengthc
- * 
+ *
  * Return: if str is a palindrome
  */
 
