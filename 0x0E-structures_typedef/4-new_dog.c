@@ -1,24 +1,16 @@
 #include "dog.h"
 #include <stdlib.h>
 #include <stdio.h>
-
 /**
  * new_dog - struct returning
- *
  * @name: dog name
- *
  * @age: age of dog
- *
  * @owner: owner name
- *
  * Return: dog struct
  */
-
 dog_t *new_dog(char *name, float age, char *owner)
-
 {
 	dog_t *dog1;
-
 	int nameSize = 0, ownerSize = 0, loop;
 
 	while (name[nameSize] != '\0')
